@@ -1,2 +1,3 @@
 # BlackJack
-BlackJack game using java
+BlackJack game using Java
+
